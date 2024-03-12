@@ -78,7 +78,7 @@ nav a:hover {
     color: #136e96;
 }
 
-@media (max-width: 768px) {
+@media {
 
     body,main {
         padding: 15px;
